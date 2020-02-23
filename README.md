@@ -22,7 +22,7 @@
 &emsp;&emsp;在摄像头监控范围内，对一个或者多个老人的跌倒或者可以跌倒的动作进行检测，通过使用训练的人体姿态识别模型与跌倒识别算法的结合，在楼梯、房间、强光、暗光和黑暗等多种环境下，使**准确率能够达到94%左右**。  
 &emsp;&emsp;运行效果图：
 ![Image text](1.png)  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;单人跌倒图  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;单人跌倒图  
 ![Image text](2.png)  
 <center>多人跌倒图</center>  
 ![Image text](baojin.png)  
